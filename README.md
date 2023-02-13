@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ogori3387
-- 👀 I’m interested in F1
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m @yorgokehdy
+- 👀 I’m interested in F1 and coding
+- 🌱 I’m currently learning java
 - 📫 How to reach me yorgo.kehdy@lau.edu
 
 <!---
